@@ -1,0 +1,9 @@
+name: analysis
+dependencies:
+  - python=3.9
+  - pip
+  - uproot3
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
